@@ -86,6 +86,7 @@ A Streamlit app to extract DOI/ISSN, title, authors and generate a 3–5 sentenc
     - Groq API – for on-prem or cloud LLM inference
 
 ## Repository Structure
+```text
   ResearchPaperSummarizer/
   ├── db/
   │   └── ResearchPaperSummarizer.db
